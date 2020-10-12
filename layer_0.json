@@ -30,12 +30,12 @@
     },
     {
       "keyCode": 0,
-      "label": "NO  KEY",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO  KEY",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
@@ -93,12 +93,12 @@
     },
     {
       "keyCode": 0,
-      "label": "NO  KEY",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO  KEY",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
@@ -136,7 +136,7 @@
     {
       "keyCode": 57,
       "label": "CAPSLOCK",
-      "verbose": "Caps  Lock"
+      "verbose": "Caps Lock"
     },
     {
       "keyCode": 4,
@@ -160,17 +160,17 @@
     },
     {
       "keyCode": 0,
-      "label": "NO  KEY",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO  KEY",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO  KEY",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
@@ -203,8 +203,8 @@
     },
     {
       "keyCode": 225,
-      "label": "LEFT  SHIFT",
-      "verbose": "Left  Shift"
+      "label": "LEFT SHIFT",
+      "verbose": "Left Shift"
     },
     {
       "keyCode": 53,
@@ -232,17 +232,17 @@
     },
     {
       "keyCode": 0,
-      "label": "NO  KEY",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO  KEY",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "NO  KEY",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
@@ -267,24 +267,23 @@
     },
     {
       "keyCode": 229,
-      "label": "RIGHT  SHIFT",
+      "label": "RIGHT SHIFT",
       "extraLabel": "",
-      "verbose": "Right  Shift"
+      "verbose": "Right Shift"
+    },
+    {
+      "keyCode": 73,
+      "label": "INSERT"
     },
     {
       "keyCode": 227,
-      "label": "LEFT  WIN",
-      "verbose": "Left  Win"
-    },
-    {
-      "keyCode": 224,
-      "label": "LEFT  CTRL",
-      "verbose": "Left  Control"
+      "label": "LEFT WIN",
+      "verbose": "Left Win"
     },
     {
       "keyCode": 226,
-      "label": "LEFT  ALT",
-      "verbose": "Left  Alt"
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
     },
     {
       "keyCode": 76,
@@ -296,12 +295,13 @@
     },
     {
       "keyCode": 0,
-      "label": "NO  KEY",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17,
-      "label": "N"
+      "keyCode": 224,
+      "label": "LEFT CTRL",
+      "verbose": "Left Control"
     },
     {
       "keyCode": 41,
@@ -327,23 +327,23 @@
     },
     {
       "keyCode": 228,
-      "label": "RIGHT  CTRL",
-      "verbose": "Right  Control"
+      "label": "RIGHT CTRL",
+      "verbose": "Right Control"
     },
     {
       "keyCode": 230,
-      "label": "RIGHT  ALT",
+      "label": "RIGHT ALT",
       "extraLabel": "",
       "verbose": "AltGr"
     },
     {
-      "keyCode": 17152,
-      "label": "NEXT",
-      "extraLabel": "LEDEFF."
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 17500,
-      "label": "8",
+      "keyCode": 17497,
+      "label": "5",
       "extraLabel": "MOVETO"
     }
   ],
@@ -374,8 +374,8 @@
     4,
     4,
     4,
+    1,
     4,
-    0,
     4,
     7,
     1,
