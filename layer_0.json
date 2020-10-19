@@ -272,8 +272,9 @@
       "verbose": "Right Shift"
     },
     {
-      "keyCode": 73,
-      "label": "INSERT"
+      "keyCode": 49168,
+      "label": "7",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 227,
@@ -374,7 +375,7 @@
     4,
     4,
     4,
-    1,
+    8,
     4,
     4,
     7,
