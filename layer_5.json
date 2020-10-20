@@ -300,9 +300,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 49156,
+      "keyCode": 227,
       "label": "LEFT WIN",
-      "extraLabel": "OSM",
       "verbose": "Left Win"
     },
     {
