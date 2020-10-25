@@ -359,15 +359,15 @@
       "verbose": "Transparent"
     },
     {
+      "keyCode": 17497,
+      "label": "5",
+      "extraLabel": "MOVETO"
+    },
+    {
       "keyCode": 65535,
       "label": "",
       "extraLabel": "TRANS",
       "verbose": "Transparent"
-    },
-    {
-      "keyCode": 17497,
-      "label": "5",
-      "extraLabel": "MOVETO"
     },
     {
       "keyCode": 65535,
@@ -441,10 +441,10 @@
     4,
     10,
     9,
-    7,
     1,
+    7,
     0,
-    6,
+    2,
     5,
     11,
     11,
@@ -480,7 +480,7 @@
     5,
     1,
     11,
-    2,
+    6,
     9,
     9,
     9,
