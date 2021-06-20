@@ -313,8 +313,9 @@
           "extraLabel": "OSL"
         },
         {
-          "keyCode": 41,
-          "label": "ESC"
+          "keyCode": 49163,
+          "label": "2",
+          "extraLabel": "OSL"
         },
         {
           "keyCode": 43,
@@ -851,9 +852,9 @@
           "verbose": "Disabled"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 24576,
+          "label": "0",
+          "extraLabel": "MACRO"
         },
         {
           "keyCode": 0,
@@ -1201,8 +1202,9 @@
           "extraLabel": "MOVE"
         },
         {
-          "keyCode": 41,
-          "label": "ESC"
+          "keyCode": 17492,
+          "label": "0",
+          "extraLabel": "MOVE"
         },
         {
           "keyCode": 65535,
@@ -2521,8 +2523,9 @@
           "extraLabel": "OSL"
         },
         {
-          "keyCode": 41,
-          "label": "ESC"
+          "keyCode": 49167,
+          "label": "6",
+          "extraLabel": "OSL"
         },
         {
           "keyCode": 43,
@@ -2924,10 +2927,9 @@
           "extraLabel": "MOVE"
         },
         {
-          "keyCode": 65535,
-          "label": "",
-          "extraLabel": "TRANS",
-          "verbose": "Transparent"
+          "keyCode": 17497,
+          "label": "5",
+          "extraLabel": "MOVE"
         },
         {
           "keyCode": 65535,
@@ -5177,7 +5179,7 @@
       5,
       1,
       11,
-      6,
+      2,
       14,
       14,
       14,
@@ -5380,7 +5382,7 @@
       6,
       15,
       15,
-      15,
+      1,
       15,
       15,
       15,
@@ -5445,7 +5447,7 @@
       5,
       1,
       11,
-      6,
+      2,
       4,
       4,
       4,
@@ -5847,7 +5849,7 @@
       5,
       1,
       11,
-      6,
+      2,
       14,
       14,
       14,
@@ -5981,7 +5983,7 @@
       5,
       1,
       11,
-      6,
+      2,
       9,
       9,
       9,
