@@ -336,10 +336,8 @@
           "verbose": "Right Control"
         },
         {
-          "keyCode": 230,
-          "label": "RIGHT ALT",
-          "extraLabel": "",
-          "verbose": "AltGr"
+          "keyCode": 73,
+          "label": "INSERT"
         },
         {
           "keyCode": 227,
@@ -928,19 +926,19 @@
           "verbose": "Transparent"
         },
         {
-          "keyCode": 20545,
-          "label": "LEFT",
-          "extraLabel": "M.Btn"
+          "keyCode": 0,
+          "label": "NO KEY",
+          "verbose": "Disabled"
         },
         {
-          "keyCode": 20548,
-          "label": "MIDDLE",
-          "extraLabel": "M.Btn"
+          "keyCode": 0,
+          "label": "NO KEY",
+          "verbose": "Disabled"
         },
         {
-          "keyCode": 20546,
-          "label": "RIGHT",
-          "extraLabel": "M.Btn"
+          "keyCode": 0,
+          "label": "NO KEY",
+          "verbose": "Disabled"
         },
         {
           "keyCode": 0,
@@ -999,6 +997,15 @@
           "verbose": "Transparent"
         },
         {
+          "keyCode": 40,
+          "label": "ENTER"
+        },
+        {
+          "keyCode": 0,
+          "label": "NO KEY",
+          "verbose": "Disabled"
+        },
+        {
           "keyCode": 0,
           "label": "NO KEY",
           "verbose": "Disabled"
@@ -1009,24 +1016,14 @@
           "verbose": "Disabled"
         },
         {
-          "keyCode": 20484,
-          "label": "LEFT",
-          "extraLabel": "Mouse"
+          "keyCode": 0,
+          "label": "NO KEY",
+          "verbose": "Disabled"
         },
         {
-          "keyCode": 20481,
-          "label": "UP",
-          "extraLabel": "Mouse"
-        },
-        {
-          "keyCode": 20482,
-          "label": "DOWN",
-          "extraLabel": "Mouse"
-        },
-        {
-          "keyCode": 20488,
-          "label": "RIGHT",
-          "extraLabel": "Mouse"
+          "keyCode": 0,
+          "label": "NO KEY",
+          "verbose": "Disabled"
         },
         {
           "keyCode": 20488,
@@ -2725,9 +2722,8 @@
           "verbose": "Transparent"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 40,
+          "label": "ENTER"
         },
         {
           "keyCode": 0,
@@ -5160,7 +5156,7 @@
       4,
       13,
       9,
-      4,
+      2,
       0,
       5,
       1,
@@ -5374,16 +5370,16 @@
       15,
       11,
       15,
-      1,
-      1,
-      1,
       15,
       15,
       15,
-      1,
-      1,
-      1,
-      1,
+      15,
+      3,
+      15,
+      15,
+      15,
+      15,
+      15,
       4,
       15,
       15,
@@ -5914,7 +5910,7 @@
       1,
       1,
       15,
-      15,
+      3,
       15,
       1,
       1,
